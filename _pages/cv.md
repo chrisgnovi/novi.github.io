@@ -9,51 +9,72 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Zepto Life Technology, March, 2018 - present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Zepto Life Technologies is a University of Minnesota startup developing fast, accurate early cancer and disease detection. I have the pleasure of being part of the Zepto team as a Software Developer!
+
+* Software Developer, August, 2018 - present
+  * Qt C++ GUI development for an embedded medical device
+  * Automation of the pneumatic system and Giant Magnetic Resistance (GMR) sensors.
+  * Redis database implementation for medical records
+  * Build infrastructure. Built our own Yocto Linux image for an embedded system. This was achieved through Bash scripting, cross-compiling and constructing our own layers to the build. The images were built on Google Cloud Virtual Machine Instances.
+
+* Software Engineer Intern, March, 2018 - July, 2018
+  * Developed software tool chains to assist lab personal with the automation and analysis of data. Python was used with numpy, pandas, matplotlib, and pyinstall for ease of use.
+  * Designed a C# GUI in Visual Studio to communicate with the firmware in an embedded system written in C. This was implemented with google protocol buffers and a CoAP client.
+  * Designed a pneumatic automation GUI in C# using a CoAP client for a magnetic nanoparticles biosensors medical device.
+  * Debugged firmware written in C.
+  * GIT and JIRA for version control.
+
+University of Wyoming, August 2015 - July 2017
+
+Developed creative technical hypotheses/data analysis methodologies to solve hydrological water issues throughout the western US using geophysical methodologies.
+
+  * Wrote 1000’s of lines of code in Python, C and MatLAB
+  * Developed a new geophysical method for geotechnical engineering analysis
+  * Published findings in the Geophysical Research Letter
+
+Education
+======
+* A.S in Computer Science, Normandale Community College
+* B.S. in Geophysics, University of Minnesota-Twin Cities
+* M.S. in Geophysics, University of Wyoming
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* python
+  * Numpy, Pandas, Pyinstaller, Matplotlib
+* C++
+  * Qt Framework, Qt Creator
+* C#
+  * .net framework, windows forms, Visual Studio
+* MatLAB
+* Java
+* Bash
+* Linux
+  * Yocto
+* Version Control - Git
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
