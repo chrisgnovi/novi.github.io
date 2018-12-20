@@ -2,7 +2,7 @@
 title: "Mapping Inherited Fractures in the Critical Zone Using Seismic Anisotropy From Circular Surveys"
 collection: publications
 permalink:
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is from my Masters research. I developed my own geophysical method for detecting fracture orientations of rock in the near surface using seismic anisotropy.'
 date: 2018-01-19
 venue: 'Geophysical Research Letters'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017GL075976'
