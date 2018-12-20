@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-##Zepto Life Technology, March, 2018 - present
+## Zepto Life Technology, March, 2018 - present
 
 Zepto Life Technologies is a University of Minnesota startup developing fast, accurate early cancer and disease detection. I have the pleasure of being part of the Zepto team as a Software Developer!
 
@@ -28,7 +28,7 @@ Zepto Life Technologies is a University of Minnesota startup developing fast, ac
   * Debugged firmware written in C.
   * GIT and JIRA for version control.
 
-##University of Wyoming
+## University of Wyoming
   * Research Assistant, August 2015 - July 2017
     * Developed creative technical hypotheses/data analysis methodologies to solve hydrological water issues throughout the western US using geophysical methodologies.
     * Wrote 1000’s of lines of code in Python, C and MatLAB
