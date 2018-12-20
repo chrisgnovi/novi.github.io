@@ -3,7 +3,7 @@ title: "Mapping Inherited Fractures in the Critical Zone Using Seismic Anisotrop
 collection: publications
 permalink:
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-19-01
+date: 2018-01-19
 venue: 'Geophysical Research Letters'
 paperurl: 'http://academicpages.github.io/files/Novitsky_et_al_2017_Geophysical_Research_Letters.pdf'
 citation: 'Novitsky, C. G., Steven Holbrook, W., Carr, B. J., Pasquet, S., Okaya, D., & Flinchum, B. A. (2018). Mapping inherited fractures in the critical zone using seismic anisotropy from circular surveys. Geophysical Research Letters,45. https://doi.org/10.1002/2017GL075976'
