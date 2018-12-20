@@ -44,17 +44,19 @@ Education
 
 Skills
 ======
-* python
+* Python
   * Numpy, Pandas, Pyinstaller, Matplotlib
 * C++
   * Qt Framework, Qt Creator
 * C#
   * .net framework, windows forms, Visual Studio
+* C
+  * firmware
 * MatLAB
 * Java
 * Bash
 * Linux
-  * Yocto
+  * Ubuntu, Yocto
 * Version Control - Git
 
 Publications
@@ -69,12 +71,5 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
