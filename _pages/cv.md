@@ -28,13 +28,12 @@ Zepto Life Technologies is a University of Minnesota startup developing fast, ac
   * Debugged firmware written in C.
   * GIT and JIRA for version control.
 
-University of Wyoming, August 2015 - July 2017
-
-Developed creative technical hypotheses/data analysis methodologies to solve hydrological water issues throughout the western US using geophysical methodologies.
-
-  * Wrote 1000’s of lines of code in Python, C and MatLAB
-  * Developed a new geophysical method for geotechnical engineering analysis
-  * Published findings in the Geophysical Research Letter
+University of Wyoming
+  * Research Assistant, August 2015 - July 2017
+    * Developed creative technical hypotheses/data analysis methodologies to solve hydrological water issues throughout the western US using geophysical methodologies.
+    * Wrote 1000’s of lines of code in Python, C and MatLAB
+    * Developed a new geophysical method for geotechnical engineering analysis
+    * Published findings in the Geophysical Research Letter
 
 Education
 ======
