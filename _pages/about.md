@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Chris Novitsky's website."
+title: "The Startup Life, my journey from seismic waves to nanoparticles."
 excerpt: "About me"
 author_profile: true
 redirect_from:
