@@ -1,6 +1,6 @@
 ---
 title: "California Road Trip "
-excerpt: "1000 mile road trip I took before graduate school"
+excerpt: ""
 collection: portfolio
 ---
 
