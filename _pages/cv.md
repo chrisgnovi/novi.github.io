@@ -16,8 +16,8 @@ Work experience
 Boulder is an industry leader in Machine Vision Technology. As a company, we tackle the most challenging problems from the high-performance machine vision of currency to saving endangered birds at wind farms through machine learning.  
 
 * Software Engineer, September 2019 - Present 
-  * Building a big data web dashboard for the Identiflight Aerial Detection System (Full-Stack: C#, Python, JavaScript, HTML, CSS, SQL, Docker)
-
+  * Building a big data web dashboard for the Identiflight Aerial Detection System (Full-Stack)
+  * Built a Convolutional Neural Network (CNN) image classification labeling GUI for verifying and training. 
 
 ### Zepto Life Technology, March, 2018 - August 2019
 
@@ -25,6 +25,7 @@ Zepto Life Technologies is a University of Minnesota startup developing fast, ac
 
 * Software Developer, August, 2018 - present
   * Qt C++ GUI development for an embedded medical device
+  * Built a C# Xamarin cross-platform application for visualizing and analyzing GMR results.
   * Automation of the pneumatic system and Giant Magnetic Resistance (GMR) sensors.
   * Redis database implementation for medical records
   * Build infrastructure. Built our own Yocto Linux image for an embedded system. This was achieved through Bash scripting, cross-compiling and constructing our own layers to the build. The images were built on Google Cloud Virtual Machine Instances.
@@ -52,19 +53,24 @@ Education
 Skills
 ======
 * Python
-  * Numpy, Pandas, Pyinstaller, Matplotlib
+  * Flask, TensorFlow, SQLAlchemy, Numpy, Pandas, Pyinstaller, Matplotlib, Plotly, TensoFlow, scikit-learn
+* JavaScript 
+  * JQuery, React 
 * C++
   * Qt Framework, Qt Creator
 * C#
-  * .net framework, windows forms, Visual Studio
+  * Xamarin, WPF, WindForms .net framework 
 * C
   * firmware
+* SQL
+* Azure 
+* MongoDB
 * MatLAB
 * Java
 * Bash
 * Linux
   * Ubuntu, Yocto
-* Version Control - Git
+* Version Control - Git, Subversion 
 
 Publications
 ======
