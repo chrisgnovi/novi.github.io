@@ -12,9 +12,7 @@ redirect_from:
 
 ### Boulder Imaging Inc 
 
-Boulder is an industry leader in Machine Vision Technology. As a company, we tackle the most challenging problems. Our newest product IdentiFlight Aerial Detection System uses A.I. to save endangered birds at wind farms, a key factor in the sustainability of renewable energy. The system scans the entire sky and identifies all endangered birds in the proximity of wind turbines and shuts down turbines according to bird flight paths. 
-
-[Video](https://youtu.be/_vLd1h-JFPo)
+Boulder Imaging is an industry leader in Machine Vision Technology. As a company, we tackle the most challenging problems. Our newest product [IdentiFlight Aerial Detection System](https://youtu.be/_vLd1h-JFPo) uses A.I. to save endangered birds at wind farms, a key factor in the sustainability of renewable energy. The system scans the entire sky and identifies all endangered birds in the proximity of wind turbines and shuts down turbines according to bird flight paths. 
 
 I am 1 of 2  Software Engineer developing a big data analysis web dashboard for the Identiflight system from scratch. This entails full-stack development: Python (Flask, Pandas, Scikit-Learn, TensorFlow), SQL(Microsoft SQL Server), MongoDB, Javascript(React, JQuery), CSS, HTML, and Docker. 
 
