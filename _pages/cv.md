@@ -11,7 +11,15 @@ redirect_from:
 
 Work experience
 ======
-### Zepto Life Technology, March, 2018 - present
+### Boulder Imaging Inc, September 2019 - Present 
+
+Boulder is an industry leader in Machine Vision Technology. As a company, we tackle the most challenging problems from the high-performance machine vision of currency to saving endangered birds at wind farms through machine learning.  
+
+* Software Engineer, September 2019 - Present 
+  * Building a big data web dashboard for the Identiflight Aerial Detection System (Full-Stack: C#, Python, JavaScript, HTML, CSS, SQL, Docker)
+
+
+### Zepto Life Technology, March, 2018 - August 2019
 
 Zepto Life Technologies is a University of Minnesota startup developing fast, accurate early cancer and disease detection. I have the pleasure of being part of the Zepto team as a Software Developer!
 

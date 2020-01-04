@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chris Novitsky"
   avatar           : "profile.png"
-  bio              : "I am a geophysicist who works as a software developer for a biotech startup working on magnetic nanoparticles biosensors."
-  location         : "Minneapolis, MN"
+  bio              : "I am a geophysicist who works as a Software Engineer for a machine vision company. I have a strong background in Python, C#, C++, and JavaScript. "
+  location         : "Boulder, CO"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=EygzWskAAAAJ&hl=en"
   email            : "chrisnovitsky@gmail.com"
