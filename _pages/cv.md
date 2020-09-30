@@ -13,13 +13,14 @@ Work experience
 ======
 ### Boulder Imaging Inc, September 2019 - Present 
 
-Boulder is an industry leader in Machine Vision Technology. As a company, we tackle the most challenging problems from the high-performance machine vision of currency to saving endangered birds at wind farms through machine learning.  
+Boulder is an industry leader in Machine Vision Technology. As a company, we tackle the most challenging problems. Our newest product IdentiFlight Aerial Detection System uses A.I. to save endangered birds at wind farms, a key factor in the sustainability of renewable energy.  
 
-* Software Engineer, September 2019 - Present 
+* Software Engineer, August 2019 - Present 
   * Building a big data web dashboard for the Identiflight Aerial Detection System (Full-Stack)
   * Built a Convolutional Neural Network (CNN) image classification labeling GUI for verifying and training. 
+  * Adding new features to C++ OpenCv vision inspection Identiflight System.
 
-### Zepto Life Technology, March, 2018 - August 2019
+### Zepto Life Technology, January, 2018 - August 2019
 
 Zepto Life Technologies is a University of Minnesota startup developing fast, accurate early cancer and disease detection. I have the pleasure of being part of the Zepto team as a Software Developer!
 
@@ -46,9 +47,8 @@ Zepto Life Technologies is a University of Minnesota startup developing fast, ac
 
 Education
 ======
-* A.S in Computer Science, Normandale Community College
-* B.S. in Geophysics, University of Minnesota-Twin Cities
-* M.S. in Geophysics, University of Wyoming
+* B.S. in Geophysics, Minor Computer Science  University of Minnesota-Twin Cities
+* M.S. in Geophysics, University of Wyoming 
 
 Skills
 ======
