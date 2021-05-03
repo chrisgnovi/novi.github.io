@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Startup Life, my journey from seismic waves to nanoparticles."
+title: "The Startup Life, my journey from: seismic waves, to nanoparticles, and now deep learning."
 excerpt: "About me"
 author_profile: true
 redirect_from:
