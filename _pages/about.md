@@ -12,9 +12,11 @@ redirect_from:
 
 ### Boulder Imaging Inc 
 
-Boulder Imaging is an industry leader in Machine Vision Technology. As a company, we tackle the most challenging problems. Our newest product [IdentiFlight Aerial Detection System](https://youtu.be/_vLd1h-JFPo) uses A.I. to save endangered birds at wind farms, a key factor in the sustainability of renewable energy. The system scans the entire sky and identifies all endangered birds in the proximity of wind turbines and shuts down turbines according to bird flight paths. 
+Boulder Imaging is an industry leader in Machine Vision Technology. As a company, we tackle the most challenging problems. Our newest product [IdentiFlight Aerial Detection System](https://youtu.be/_vLd1h-JFPo) uses A.I. to save endangered birds at wind farms, a key factor in the sustainability of renewable energy. The system scans the entire sky and identifies all endangered birds in the proximity of wind turbines and shuts down turbines according to bird flight paths.
 
-I am 1 of 2  Software Engineer developing a big data analysis web dashboard for the Identiflight system from scratch. This entails full-stack development: Python (Flask, Pandas, Scikit-Learn, TensorFlow), SQL(Microsoft SQL Server), MongoDB, Javascript(React, JQuery), CSS, HTML, and Docker. 
+I am the lead machine learning developer for the Identiflight systems. This involves the entire machine learning pipeline from data validation, preprocessing, model training, validation to the final model deployment and future architecture R&D.
+
+[Here is a NOVA clip of the system in action!](https://f.hubspotusercontent20.net/hubfs/195771/NOVA.mp4?utm_medium=email&_hsmi=2&_hsenc=p2ANqtz--H6JliX3IpiYVt6prqIwhw8bZhdO4-aF6T9FvMNbISgUK_AtxktMUEfsKflJ3xLQM-SsB5sKRPvZ78GJTI4YkB_9oRjShdAOjZeq-HDCKQVmXGtgc&utm_content=2&utm_source=hs_email)
 
 ### Zepto Life Technologies
 
@@ -26,7 +28,7 @@ Early cancer detection is an issue I care about very deeply. I moved back to Min
 
 ### Geophysical Exploration
 
-Previously I was a Geophysicist. I received my Masters in it from the University of Wyoming under my advisor Steve Holbrook. During my time there I was part of a large $22.5 million NSF grant using exploration geophysics to find water resources and determine their stability in the Western United States. 
+Previously I was a Geophysicist. I received my Masters in it from the University of Wyoming under my advisor Steve Holbrook. During my time there I was part of a large $22.5 million NSF grant using exploration geophysics to find water resources and determine their stability in the Western United States.
 
 My Master's research was published in the Geophysical Research Letter. I developed my own geophysical method for determining the directions of fractures in the near-surface using seismic anisotropy. I also did extensive research on cross-well seismic tomography and seismic attenuation. I extensively used python and Matlab to model my data. 
 

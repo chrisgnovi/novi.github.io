@@ -13,18 +13,24 @@ Work experience
 ======
 ### Boulder Imaging Inc, September 2019 - Present 
 
+
 Boulder is an industry leader in Machine Vision Technology. As a company, we tackle the most challenging problems. Our newest product IdentiFlight Aerial Detection System uses A.I. to save endangered birds at wind farms, a key factor in the sustainability of renewable energy.  
 
-* Software Engineer, August 2019 - Present 
+##### Machine Learning Engineer, August 2019 - Present
+I am the lead machine learning developer for the Identiflight systems. This involves the entire machine learning pipeline from data validation, preprocessing, model training, validation to the final model deployment and future architecture R&D. (TensorFlow 1&2, Keras, Postgres, Docker, Linux, Bazel, OpenCV).
+
+Accomplishment:
+  * Deployed trained and deplolyed CNN machine learning solutions all over the world.
+  * Built a deep Convolutional Neural Networks model hardware acceleration optimizer for the identiflight system using Intel OpenVino.
   * Building a big data web dashboard for the Identiflight Aerial Detection System (Full-Stack)
-  * Built a Convolutional Neural Network (CNN) image classification labeling GUI for verifying and training. 
+  * Built a Convolutional Neural Network (CNN) image classification labeling GUI for verifying and training.
   * Adding new features to C++ OpenCv vision inspection Identiflight System.
 
 ### Zepto Life Technology, January, 2018 - August 2019
 
 Zepto Life Technologies is a University of Minnesota startup developing fast, accurate early cancer and disease detection. I have the pleasure of being part of the Zepto team as a Software Developer!
 
-* Software Developer, August, 2018 - present
+#### Software Developer, August, 2018 - present
   * Qt C++ GUI development for an embedded medical device
   * Built a C# Xamarin cross-platform application for visualizing and analyzing GMR results.
   * Automation of the pneumatic system and Giant Magnetic Resistance (GMR) sensors.
@@ -53,7 +59,7 @@ Education
 Skills
 ======
 * Python
-  * Flask, TensorFlow, SQLAlchemy, Numpy, Pandas, Pyinstaller, Matplotlib, Plotly, TensoFlow, scikit-learn
+  * Flask, TensorFlow, SQLAlchemy, Numpy, Pandas, Pyinstaller, Matplotlib, Plotly, Tensorflow(1/2), scikit-learn
 * JavaScript 
   * JQuery, React 
 * C++
