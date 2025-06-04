@@ -1,6 +1,6 @@
 {
   "name": "novi.github.io",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://chrisgnovi.github.io/novi.github.io",
